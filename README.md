@@ -1,4 +1,4 @@
-# RoguePortal
+# RoguePortal-Pico
 
 This repo is based on [PicoGopher](https://github.com/aittalam/PicoGopher/), a Gopher server tiny enough to run on a Raspberry Pi Pico W. The original description can be found below.
 
